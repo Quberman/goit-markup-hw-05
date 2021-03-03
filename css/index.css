@@ -224,11 +224,10 @@ li {
 .hero-block {
   margin-left: auto;
   margin-right: auto;
-  /* width: 1600px; */
+  max-width: 1600px;
   /* outline: solid 2px tomato; */
 }
 .back-settings {
-  width: 1600px;
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(47, 48, 58, 1);
