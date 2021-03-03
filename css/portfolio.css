@@ -264,6 +264,10 @@ li {
   padding: 0;
 }
 
+.cards-item {
+  border: 1px solid var(--border-color);
+}
+
 .card:hover .overlay-text,
 .card:focus .overlay-text {
   transform: translateY(0);
