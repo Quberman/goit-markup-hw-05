@@ -407,7 +407,7 @@ li {
   flex-direction: row;
   justify-content: flex-start;
   margin: 0 auto;
-  padding: 94px 0;
+  padding: 94px 0 0;
 }
 .section-list-advant .item {
   max-width: 270px;
@@ -447,6 +447,10 @@ li {
 .title-text-list {
   margin-top: 0;
   margin-bottom: 10px;
+}
+
+.back-padd {
+  padding-top: 94px;
 }
 
 .back-color {
@@ -545,6 +549,7 @@ li {
   color: var(--black-text);
   margin-top: 0;
   margin-bottom: 50px;
+  padding-top: 94px;
 }
 .title-text-name {
   color: var(--black-text);
